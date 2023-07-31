@@ -17,8 +17,17 @@
 
 <h2>Components</h2>
 <ul>
-    <li>Header - basic site header </li>
-    <li>HeartSVG - svg img component</li>
-    <li>Heart|CandyColoredHeart - Pick your flavor red or pastel</li>
-    <li>HeartLists - Saying on hearts</li>
+    <li>Standalone
+        <ul>
+            <li>Header - basic site header</li>
+        </ul>
+    </li>
+    <li>
+        Layered Components
+        <ul>
+            <li>HeartSVG - svg img component</li>
+            <li>Heart|CandyColoredHeart - Pick your flavor red or pastel</li>
+            <li>HeartLists - Saying on hearts</li>
+        </ul>
+    </li>    
 </ul>
